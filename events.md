@@ -28,6 +28,12 @@ title: Events
     font-size: 90%;
     display: block;
   }
+
+  @media (max-width: 500px) {
+    #event-list {
+      grid-template-columns: 1fr;
+    }
+  }
 </style>
 
 Events we're planning:
