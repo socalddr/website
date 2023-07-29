@@ -1,0 +1,23 @@
+---
+layout: layouts/base.njk
+title: Home
+---
+
+<style>
+  #logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2em;
+  }
+  #logo img {
+    display: block;
+    width: 50vw;
+    max-width: 12em;
+  }
+</style>
+
+{% include 'nav.html' %}
+<h1 id="logo"><img alt="Logo" src="/public/logo.png" />SoCalDDR</h1>
+
+{{content | safe}}
