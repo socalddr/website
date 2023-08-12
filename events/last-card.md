@@ -48,7 +48,10 @@ July 21-23, 2023
 
 ## VoDs
 
-- Coming Soon
+- [Pools 1-9](https://www.youtube.com/playlist?list=PLSHS-6k9h1VlRHpLd5R6Qr2y7wvsArGeB)
+- [Pools 10-17](https://www.youtube.com/playlist?list=PLSHS-6k9h1Vnvi1LRCDd6yQhoEs8cxmNz)
+- [Top 12 Double Elim](https://www.youtube.com/playlist?list=PLSHS-6k9h1Vl5ArU0nHyWMhmok_dlnGUV)
+- [Side Events](https://www.youtube.com/playlist?list=PLSHS-6k9h1VlF60HznmfopQv8BW3vtf1r)
 
 # Links
 
