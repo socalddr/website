@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Boba Cup 2023
+description: Event page for the April 2023 DDR A20+ Tournament
 ---
 
 # The Boba Cup

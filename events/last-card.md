@@ -1,20 +1,12 @@
 ---
 layout: layouts/page.njk
 title: Last Card 2023
+description: Event page for the July 2023 DDR A20+ Tournament
 ---
 
 <style>
-  body {
-    background-color: #333;
-    color: white;
-  }
-
-  nav > a {
-    background-color: #222;
-  }
-
   #hero-img {
-    max-height: 60vh;
+    max-height: 50vh;
     display: block;
     margin: 0 auto;
   }
@@ -53,7 +45,7 @@ July 21-23, 2023
 - [Top 12 Double Elim](https://www.youtube.com/playlist?list=PLSHS-6k9h1Vl5ArU0nHyWMhmok_dlnGUV)
 - [Side Events](https://www.youtube.com/playlist?list=PLSHS-6k9h1VlF60HznmfopQv8BW3vtf1r)
 
-# Links
+## Links
 
 - [Bracket](https://www.start.gg/tournament/last-card-ddr-event/details)
 - [Rules](https://docs.google.com/document/d/1Xo2Tej4JjbHol2jzarrDiSHMGQqpxwZFKhQ8LgQ9b8w/edit?usp=share_link)

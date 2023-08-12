@@ -1,5 +1,6 @@
 ---
-title: Good Ass DDR
+title: SoCal DDR
+description: cool kids playing steppy games
 ---
 
 <!DOCTYPE html>
@@ -7,7 +8,20 @@ title: Good Ass DDR
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SoCalDDR - {{ title }}</title>
+    <meta name="color-scheme" content="light only">
+    <meta property="og:site_name" content="SoCal DDR">
+    <meta property="og:title" content="SoCal DDR - {{ title }}">
+    <meta property="og:type" content="website">
+    <meta name="description" content="{{ description }}">
+    <meta property="og:description" content="{{ description }}">
+    <meta property="og:image" content="/public/socal-logo-2.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="435">
+    <meta property="og:image:height" content="440">
+    <meta property="og:url" content="https://socalddr.com{{ page.url }}">
+    <link rel="canonical" href="https://socalddr.com{{ page.url }}">
+    {# <meta property="twitter:card" content="summary_large_image"> #}
+    <title>SoCal DDR - {{ title }}</title>
     <link rel="icon" href="/public/logo-tiny.png">
     <style>{% include 'styles.css' %}</style>
 
@@ -29,6 +43,9 @@ title: Good Ass DDR
     <!-- End Matomo Code -->
   </head>
   <body>
+    <div id="content">
     {{ content | safe }}
+    </div>
+    <footer><p>putting the "good" in good-ass DDR since 2023</p></footer>
   </body>
 </html>

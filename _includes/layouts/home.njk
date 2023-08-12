@@ -3,21 +3,9 @@ layout: layouts/base.njk
 title: Home
 ---
 
-<style>
-  #logo {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-top: 1em;
-  }
-  #logo img {
-    display: block;
-    width: 50vw;
-    max-width: 12em;
-  }
-</style>
-
+<div id="home-grid">
+<div id="logo"><img alt="SoCal DDR Logo" src="/public/socal-logo-2.png" /></div>
 {% include 'nav.html' %}
-<h1 id="logo"><img alt="Logo" src="/public/logo.png" />SoCalDDR</h1>
+</div>
 
 {{content | safe}}
