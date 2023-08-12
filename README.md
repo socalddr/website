@@ -6,4 +6,4 @@ This project uses [Eleventy](https://www.11ty.dev/)
 - Local dev with `npm run dev`
 - Build static output `npm run build`
 
-We commit the built site directly to the `docs/` folder because that's how github pages likes to serve things.
+Github pages will automatically build and serve the latest `main` branch contents.
