@@ -58,8 +58,8 @@ layout: layouts/home.njk
     background-size: 150px;
   }
 
-  #tease a {
-    background-image: var(--shade-gradient), url('/public/eyes.png');
+  #boba-2 a {
+    background-image: var(--shade-gradient), url('/public/boba2-eyes.png');
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -74,7 +74,7 @@ layout: layouts/home.njk
 <h2>Upcoming Events</h2>
 
 <ul class="event-list">
-<li id="tease"><a>TBA <time>2023</time></a></li>
+<li id="boba-2"><a href="/events/boba-cup-2">Boba Cup 2 <time>November 11-12, 2023</time></a></li>
 </ul>
 
 <h2>Previous Events</h2>
